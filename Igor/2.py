@@ -6,3 +6,4 @@ print(" /  V  \  " * number)
 print("/(  _  )\ " * number)
 print("  ^^ ^^   " * number)
 input()
+#K
