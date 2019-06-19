@@ -30,4 +30,11 @@
 /(  _  )\ 
   ^^ ^^
 '''
-
+number = input()
+number = int(num)
+print('    _~_'    *   num)
+print('   (o o)')
+print(' //  V  \\')
+print('//(  _  )\\')
+print('   ^^ ^^')
+input()
