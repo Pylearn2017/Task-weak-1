@@ -28,6 +28,15 @@
   (o o)   
  /  V  \  
 /(  _  )\ 
-  ^^ ^^
+  ^^ ^^    
 '''
 
+#num = input()
+
+num = 4
+num = int(num)
+print('   _~_    ' * num)
+print('  (Х Х)   ' * num)
+print(' /  V  \  ' * num)
+print('/(  _  )\ ' * num)
+print('  ^^ ^^   ' * num)
