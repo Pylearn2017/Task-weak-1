@@ -10,8 +10,8 @@
 4
 '''
 
-num = input()
-num = int(num)
+num = 2
+
 
 step = input()
 step = int(step)
