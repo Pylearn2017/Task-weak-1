@@ -1,6 +1,7 @@
 from turtle import*
 
-speed(1000)
+speed(10000)
+width(2)
 for i in range(180):
 	forward(100)
 	right(30)
@@ -14,3 +15,6 @@ for i in range(180):
 	pendown()
 
 	right(2)
+
+
+exitonclick()
