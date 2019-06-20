@@ -32,5 +32,5 @@
 '''
 num = input()
 num = int(num)
-print('   _~_\n  (o o)\n /  V  \n/(  _  )\\\n   ^^ ^^' * num)
+print('   \_~_\n  (o o)\n /  V  \n/(  _  )\\\n  ^^ ^^' * num)
 input()
