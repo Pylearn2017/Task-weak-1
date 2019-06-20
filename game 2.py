@@ -1,4 +1,5 @@
 #laberint
+#game
 import turtle
 
 def player_forward():
@@ -84,5 +85,5 @@ turtle.onkey(player_left, 'a')
 turtle.onkey(player_right, 'd')
 turtle.onkey(player_backward, 's')
 
-#fdg
 wn.exitonclick()
+#ggaamme
