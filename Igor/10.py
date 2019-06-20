@@ -1,3 +1,3 @@
-A = input("Enter A: ")
+A = "A"
 print(A*100)
-input()
+input("DONE!")
