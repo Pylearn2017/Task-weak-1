@@ -28,9 +28,20 @@
   (o o)   
  /  V  \  
 /(  _  )\ 
-  ^^ ^^
+  ^^ ^^  
+'''
 '''
 num = input()
 num = int(num)
-print('   \_~_\n  (o o)\n /  V  \n/(  _  )\\\n  ^^ ^^' * num)
+print('   _~_\n  (o o)\n /  V  \\\n/(  _  )\\\n  ^^ ^^' * num)
+input()
+'''
+
+num = input()
+num = int(num)
+print('   _~_   ' * num)
+print( '  (o o)  ' * num)
+print( ' /  V  \\ ' * num)
+print('/(  _  )\\' * num)
+print('  ^^ ^^  ' * num)
 input()
