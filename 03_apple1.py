@@ -21,6 +21,6 @@ print('кол-во яблок')
 b = input()
 b = int(b)
 
-print('остается в корзинке')
-print(b % a)
+print('каждому по ')
+print(b // a)
 input()
