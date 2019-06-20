@@ -14,3 +14,5 @@ Harry
 Вывод программы:
 Hello, Harry!
 '''
+name = 'Harry'
+print('Hello, ', name , '!', sep='')
