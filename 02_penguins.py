@@ -30,11 +30,11 @@
 /(  _  )\ 
   ^^ ^^
 '''
-number = input()
-number = int(num)
-print('    _~_'    *   num)
-print('   (o o)')
-print(' //  V  \\')
-print('//(  _  )\\')
-print('   ^^ ^^')
+num = input()
+num = int(num)
+print(num   * '   _~_   ')
+print(num   * '  (o o)  ')
+print(num   * ' /  V  \\ ')
+print(num   * '/(  _  )\\')
+print(num   * '  ^^ ^^  ')
 input()
