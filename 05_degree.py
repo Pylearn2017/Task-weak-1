@@ -9,4 +9,6 @@
 Вывод программы:
 4
 '''
-print('введите число')
+num = int(input())
+print(2**num)
+input()
