@@ -9,7 +9,6 @@
 Вывод программы:
 4
 '''
-N = int(input("школьников: "))
-K = int(input("яблок: "))
-n = 2
+n = int(input())
 print(2**n)
+input()
