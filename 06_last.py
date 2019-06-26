@@ -11,3 +11,8 @@
 Вывод программы:
 9
 '''
+
+num = int(input())
+answer = num % 10
+print(answer)
+input()

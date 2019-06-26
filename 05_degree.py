@@ -9,3 +9,6 @@
 Вывод программы:
 4
 '''
+num = int(input())
+print(2**num)
+input()

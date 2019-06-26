@@ -11,3 +11,7 @@
 Вывод программы:
 4
 '''
+num = int(input())
+answer = num // 10
+print(answer)
+input()
