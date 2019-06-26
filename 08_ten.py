@@ -13,3 +13,7 @@
 
 '''
 
+num = int(input())
+x = num % 100
+x1 = x // 10
+print(x1)
