@@ -16,6 +16,7 @@ N школьников поделили K яблок поровну, не дел
 
 a = int(input('Кол-во школьников: '))
 b = int(input('Кол-во яблок: '))
-c = b / a
-print(bool(c))
+c = b // a
+d = c * a
+print(d)
 input()
