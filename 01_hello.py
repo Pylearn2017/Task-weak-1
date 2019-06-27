@@ -14,3 +14,7 @@ Harry
 Вывод программы:
 Hello, Harry!
 '''
+
+a = input('Enter your name: ')
+print(f'Hello, {a}!')
+input()
