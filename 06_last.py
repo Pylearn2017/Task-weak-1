@@ -13,4 +13,8 @@
 '''
 
 a = int(input('Введите любое число: '))
-b = a /
+b = a // 10
+d = b * 10
+c = a - d
+print(c)
+input()

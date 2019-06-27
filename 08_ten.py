@@ -13,7 +13,10 @@
 
 '''
 
-a = int(input('Введите число: '))
-b = a // 10
-print(b)
+a = int(input('Введите любое число: '))
+b = a // 100
+d = b * 100
+c = a - d
+h = c // 10
+print(h)
 input()
