@@ -18,5 +18,6 @@ a = int(input('Кол-во школьников: '))
 b = int(input('Кол-во яблок: '))
 c = b // a
 d = c * a
-print(d)
+k = b - d
+print(k)
 input()
